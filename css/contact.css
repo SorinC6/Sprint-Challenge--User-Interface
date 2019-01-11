@@ -7,7 +7,7 @@
 
 body {
 	font-family:"Open Sans", Helvetica, Arial, sans-serif;
-	font-weight:300;
+	font-weight:400;
 	font-size: 12px;
 	line-height:30px;
 	color:#777;
@@ -15,9 +15,9 @@ body {
 }
 
 .container {
-	max-width:400px;
+	max-width:600px;
 	width:100%;
-	margin:0 auto;
+    margin:0 auto;
 }
 
 
@@ -38,14 +38,6 @@ body {
 	margin:5px 0 15px;
 	display:block;
 	font-size:13px;
-}
-
-fieldset {
-	border: medium none !important;
-	margin: 0 0 10px;
-	min-width: 100%;
-	padding: 0;
-	width: 100%;
 }
 
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
