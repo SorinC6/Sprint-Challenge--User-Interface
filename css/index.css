@@ -71,6 +71,30 @@ p {
     margin: 0 auto;
 }
 
+/* making the PAGE HEADER */
+
+.header-page {
+    display:flex;
+    margin-top:20px;
+    justify-content: space-between;
+}
+
+header nav {
+    padding-top:20px;
+}
+
+header nav a{
+    padding:35px;
+    color:grey;
+    text-decoration: none;
+}
+
+.logo {
+    padding-bottom: 30px;
+}
+
+/* ******************************* */
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
