@@ -11,7 +11,7 @@ body {
 	font-size: 12px;
 	line-height:30px;
 	color:#777;
-	background:#0CF;
+	background:rebeccapurple;
 }
 
 .container {
@@ -22,13 +22,13 @@ body {
 
 
 #contact {
-	background:#F9F9F9;
+	background:silver;
 	padding:25px;
 	margin:50px 0;
 }
 
 #contact h3 {
-	color: #F96;
+	color:FUCHSIA;
 	display: block;
 	font-size: 30px;
 	font-weight: 400;
@@ -54,7 +54,7 @@ body {
 	cursor:pointer;
 	width:100%;
 	border:none;
-	background:#0CF;
+	background:grey;
 	color:#FFF;
 	margin:0 0 5px;
 	padding:10px;
