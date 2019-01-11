@@ -132,6 +132,13 @@ header nav a{
     padding-bottom: 0px;
     margin-right: 30px;
     border-bottom: 1px dashed black;
+    
+}
+
+.card:hover{
+    -webkit-transform: rotateZ(-05deg);
+    -ms-transform: rotateZ(-05deg);
+    transform: rotateZ(-05deg);
 }
 
 .section-four {
